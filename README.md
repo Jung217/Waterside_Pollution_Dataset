@@ -15,3 +15,14 @@ As title.
 
 * new to model
 <img src="pic/test (1).png" width=50% height=50%>
+
+## P.s.
+My laptop graphics card was too suck to train model.
+```ps
+PS C:\Users\alex2\Desktop\NTUST\Harbor_Pollution_Dataset> python .\testCUDA.py
+PyTorch 版本: 2.0.1+cu118
+CUDA 可用: True
+CUDA 版本: 11.8
+GPU 數量: 1
+CUDA:0 (NVIDIA GeForce GTX 1650, 4095 MB)
+```
