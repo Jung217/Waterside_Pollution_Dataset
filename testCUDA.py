@@ -16,3 +16,5 @@ if torch.cuda.is_available():
         print(f"CUDA:{i} ({torch.cuda.get_device_name(i)}, {torch.cuda.get_device_properties(i).total_memory // 1024**2} MB)")
 else:
     print("沒有可用的 CUDA 設置")
+
+#print(torch.backends.cudnn.version())
