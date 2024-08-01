@@ -1,0 +1,12 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 1
+names: ['pollute']
+
+roboflow:
+  workspace: test-ywqvo
+  project: pollute-g1jae
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/test-ywqvo/pollute-g1jae/dataset/7
