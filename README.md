@@ -9,7 +9,8 @@ use [VIA](https://www.robots.ox.ac.uk/~vgg/software/via/) to label
 * [Origin](https://github.com/Jung217/Harbor_Pollution_Dataset/tree/main/Origin) : origin image & hand-made masks
 * [via-2.0.12](https://github.com/Jung217/Harbor_Pollution_Dataset/tree/main/via-2.0.12) : a tool uses to draw masks
 * [yoloV9Od.ipynb](https://github.com/Jung217/Harbor_Pollution_Dataset/blob/main/yoloV9Od.ipynb) : a yolov9 example using this dataset training model
-* [pollute.v2i.yolov9](https://github.com/Jung217/Harbor_Pollution_Dataset/tree/main/pollute.v2i.yolov9) : dataset split on [roboflow](https://roboflow.com/)
+* [yoloV8Od.ipynb](https://github.com/Jung217/Waterside_Pollution_Dataset/blob/main/yoloV8Od.ipynb) : a yolov8 example using this dataset training model
+* [pollute.v7i.yolov9](https://github.com/Jung217/Waterside_Pollution_Dataset/tree/main/pollute.v7i.yolov9) : dataset split on [roboflow](https://roboflow.com/)
 
 ## results
 * test
@@ -23,7 +24,8 @@ use [VIA](https://www.robots.ox.ac.uk/~vgg/software/via/) to label
 
 ## web app
 A simple web app using streamlit
-<img src="pic/streamlit.png" width=50% height=50%>
+
+<img src="pic/streamlit.png" width=80% height=80%>
 
 ## P.s.
 My laptop graphics card was too suck to train model.
