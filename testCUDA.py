@@ -17,4 +17,4 @@ if torch.cuda.is_available():
 else:
     print("沒有可用的 CUDA 設置")
 
-#print(torch.backends.cudnn.version())
+print(torch.backends.cudnn.version())

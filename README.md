@@ -1,6 +1,8 @@
 # Waterside Pollution Dataset
 As title.
 
+use [VIA](https://www.robots.ox.ac.uk/~vgg/software/via/) to label
+
 ## Something to say
 ***All data is collected by Chihjung Chien.***
 
@@ -13,8 +15,15 @@ As title.
 * test
 <img src="pic/test.jpg" width=50% height=50%>
 
-* new to model
+* new to model (v2)
 <img src="pic/test (1).png" width=50% height=50%>
+
+* new to model (v7)
+<img src="pic/demo.jpg" width=50% height=50%>
+
+## web app
+A simple web app using streamlit
+<img src="pic/streamlit.png" width=50% height=50%>
 
 ## P.s.
 My laptop graphics card was too suck to train model.
